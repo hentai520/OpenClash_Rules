@@ -1,10 +1,16 @@
+# > Mag
+DOMAIN-SUFFIX,4.v4v223789.sxfwvxg1.223789.xyz
+DOMAIN-SUFFIX,4.v4v223789.kmfjnwr1.223789.xyz
+DOMAIN-SUFFIX,4.v4v223789.axudwbru1.223789.xyz
+DOMAIN-SUFFIX,4.v4v223789.er.uvkkvk1.223789.xyz
+DOMAIN-SUFFIX,4.v4xdu295.a.api.kweioxg2.223789.xyz
 
 # > ntRRR
-DOMAIN-SUFFIX, stream.ntrrr.top
-DOMAIN-SUFFIX, stream.synn.cc
+DOMAIN-SUFFIX,stream.ntrrr.top
+DOMAIN-SUFFIX,stream.synn.cc
 
 # > feiyue
-DOMAIN-SUFFIX, sfcj.org
+DOMAIN-SUFFIX,sfcj.org
 
 # > Singularity
 DOMAIN-SUFFIX,singularity.deja-vu.beauty
@@ -172,10 +178,3 @@ DOMAIN,direct.nebula-emby.com
 # > aca
 DOMAIN,emby.aca.best
 DOMAIN,porn.aca.best
-
-# > Mag
-DOMAIN,4.v4v223789.sxfwvxg1.223789.xyz
-DOMAIN,4.v4v223789.kmfjnwr1.223789.xyz
-DOMAIN,4.v4v223789.axudwbru1.223789.xyz
-DOMAIN,4.v4v223789.er.uvkkvk1.223789.xyz
-DOMAIN,4.v4xdu295.a.api.kweioxg2.223789.xyz
