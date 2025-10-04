@@ -70,7 +70,7 @@
       {"rule_set": "geoip-apple", "outbound": "🍏 Apple"},
       {"rule_set": "geoip-telegram", "outbound": "📲 Telegram"},
       {"rule_set": "geoip-netflix", "outbound": "🎥 Netflix"},
-      {"rule_set": "geoip-cn", "outbound": "🎯 全球直连"}
+      {"rule_set": "geoip-cn", "outbound": "🎯 全球直连"},
       {"rule_set": "cnip", "outbound": "🎯 全球直连"}
     ],
     "rule_set": [
@@ -93,7 +93,7 @@
       {"tag": "geoip-apple", "type": "remote", "format": "binary", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo-lite/geoip/apple.srs", "download_detour": "🎯 全球直连"},
       {"tag": "geoip-telegram", "type": "remote", "format": "binary", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geoip/telegram.srs", "download_detour": "🎯 全球直连"},
       {"tag": "geoip-netflix", "type": "remote", "format": "binary", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geoip/netflix.srs", "download_detour": "🎯 全球直连"},
-      {"tag": "cnip", "type": "remote", "format": "binary", "url": "https://gh-proxy.com/https://github.com/hentai520/OpenClash_Rules/raw/refs/heads/main/rules/cnip.srs", "download_detour": "🎯 全球直连"}
+      {"tag": "cnip", "type": "remote", "format": "binary", "url": "https://gh-proxy.com/https://github.com/hentai520/OpenClash_Rules/raw/refs/heads/main/rules/cnip.srs", "download_detour": "🎯 全球直连"},
       {"tag": "geoip-cn", "type": "remote", "format": "binary", "url": "https://gh-proxy.com/https://github.com/qljsyph/ruleset-icon/raw/refs/heads/main/sing-box/geoip/China-ASN-combined-ip.srs", "download_detour": "🎯 全球直连"}
     ],
     "final": "🐠 漏网之鱼",
